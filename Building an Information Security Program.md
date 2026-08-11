@@ -8,12 +8,12 @@
 
 **2. Organizational Structure**
 CISO / CSO
-├── Security Operations (SOC)
-├── GRC & Compliance
-├── Security Architecture
-├── Identity & Access Management
-├── Application Security
-└── Security Awareness & Training
+* ├── Security Operations (SOC)
+* ├── GRC & Compliance
+* ├── Security Architecture
+* ├── Identity & Access Management
+* ├── Application Security
+* └── Security Awareness & Training
 
 
 **3. Policy Framework**
