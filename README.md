@@ -1,1 +1,1 @@
-Outcome from JGRC course in Vibe Security Academy 🧨
+## JGRC course outcome from Vibe Security Academy 🧨
